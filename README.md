@@ -1,1 +1,1 @@
-# billings_katherine_git
+This is my readme for a sample git project.
